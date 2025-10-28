@@ -23,7 +23,8 @@
 
 #hero .content h1 {
     color: #fff;
-    font-weight: 600;
+    font-weight: 400;
+    font-size: large;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
